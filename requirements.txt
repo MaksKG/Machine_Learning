@@ -4,3 +4,7 @@ numpy
 matplotlib
 scikit-learn
 plotly
+kmeans
+dbscan
+KDEpy
+scipy
